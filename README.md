@@ -5,4 +5,4 @@ Icons and backgrounds are displayed according to weather conditions.
 
 [Demo here](http://www.erenguldas.com/portfolio/local-weather/)
 
-![The Design](/img/local-weather.png)
+![The Design](/img/local-weather.jpg)
