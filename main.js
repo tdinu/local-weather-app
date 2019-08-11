@@ -5,7 +5,7 @@ $(document).ready(function() {
     var api_key = "dd39280551e44f1bb34221739171701&q=";
     var loc;
 
-    $.getJSON('http://ipinfo.io', function(d) {
+    $.getJSON('https://ipinfo.io', function(d) {
         loc = d.loc.split(",");
 
         var apiLink = "https://api.apixu.com/v1/forecast.json?key=";
