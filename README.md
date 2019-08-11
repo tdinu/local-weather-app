@@ -3,6 +3,6 @@ This application allows local weather to be seen instantly and for 5 days in a r
 
 Icons and backgrounds are displayed according to weather conditions.
 
-[Demo here](http://www.erenguldas.com/portfolio/local-weather/)
+[Demo here](https://erenesto.github.io/local-weather-app/)
 
 ![The Design](/img/local-weather.jpg)
