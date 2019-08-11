@@ -8,7 +8,7 @@ $(document).ready(function() {
     $.getJSON('http://ipinfo.io', function(d) {
         loc = d.loc.split(",");
 
-        var apiLink = "http://api.apixu.com/v1/forecast.json?key=";
+        var apiLink = "https://api.apixu.com/v1/forecast.json?key=";
         var days5 = "&days=5";
         var api = apiLink + api_key + loc[0] + ',' + loc[1] + days5;
 
